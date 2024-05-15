@@ -11,11 +11,14 @@
             "id": "f5ef7fe504ca23ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Testing.md",
-                "mode": "source",
-                "source": false
+                "file": "02_System Overview.canvas",
+                "viewState": {
+                  "x": 2674.03125,
+                  "y": -137.89453125,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "02_System Overview.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "02_System Overview.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
+                "file": "02_System Overview.canvas"
               }
             }
           }
@@ -148,6 +151,13 @@
   },
   "active": "f5ef7fe504ca23ba",
   "lastOpenFiles": [
+    "Entities/Order.md",
+    "02_System Overview.canvas",
+    "Entities",
+    "00_Entities.canvas",
+    "2024-05-15.md",
+    "Datenflow.canvas",
+    "README.md",
     "Testing.md"
   ]
 }
